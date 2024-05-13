@@ -1,2 +1,1 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
-
+# A Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
